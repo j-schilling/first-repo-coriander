@@ -1,2 +1,2 @@
-# first-repo-coriander
-First repo on first day of bootcamp
+# Learning GitHub and Markdown
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
