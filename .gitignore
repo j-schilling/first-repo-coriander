@@ -1,0 +1,5 @@
+.DS_Store
+
+# this is a comment
+# How to ignore files with the extention md:
+# *.md
